@@ -1,0 +1,15 @@
+Welcome to my automatic notepad typing program created using python
+-Rohit tyagi
+
+commands available=>
+1- change line (to change the line)
+2- stop the program (exit program)
+3 backspace 5 , backspace 1, backspace 10  (to delets alphabets read my text)
+=> more instructions are written in program itself
+
+libraries u need to run the code-
+
+1- pip install speechrecognition
+2- pip install keyboard
+3- pip install pyttsx3
+4- pip install pyautogui
